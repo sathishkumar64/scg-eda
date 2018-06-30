@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 3 elements from project &apos;avrodto&apos;&#x0D;&#x0A;- Original project: &apos;avrodto&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     com.order.avro.domain.Order.java&#x0D;&#x0A;     com.order.avro.domain.OrderState.java&#x0D;&#x0A;     com.order.avro.domain.Product.java" description="Delete elements" element1="/src\/main\/java&lt;com.order.avro.domain{OrderState.java" element2="/src\/main\/java&lt;com.order.avro.domain{Order.java" element3="/src\/main\/java&lt;com.order.avro.domain{Product.java" elements="3" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1530345131238" subPackages="false" version="1.0"/>
+</session>

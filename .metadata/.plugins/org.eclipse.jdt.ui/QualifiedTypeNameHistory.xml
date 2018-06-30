@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.persistence.Entity"/>
+<fullyQualifiedTypeName name="javax.persistence.Table"/>
+<fullyQualifiedTypeName name="javax.persistence.Id"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="javax.persistence.Temporal"/>
+<fullyQualifiedTypeName name="com.product.domain.Product"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ResponseBody"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestParam"/>
+<fullyQualifiedTypeName name="antlr.collections.List"/>
+<fullyQualifiedTypeName name="javax.transaction.Transactional"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+<fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.data.jpa.JpaRepositoriesAutoConfiguration"/>
+<fullyQualifiedTypeName name="org.springframework.data.repository.Repository"/>
+<fullyQualifiedTypeName name="org.springframework.transaction.annotation.Transactional"/>
+<fullyQualifiedTypeName name="com.product.dao.ProductRepository"/>
+<fullyQualifiedTypeName name="javax.sql.DataSource"/>
+<fullyQualifiedTypeName name="springfox.documentation.service.ApiInfo"/>
+<fullyQualifiedTypeName name="springfox.documentation.builders.ApiInfoBuilder"/>
+<fullyQualifiedTypeName name="io.swagger.annotations.Api"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PutMapping"/>
+<fullyQualifiedTypeName name="com.order.service.OrderCommandService"/>
+<fullyQualifiedTypeName name="com.order.domain.Order"/>
+<fullyQualifiedTypeName name="com.order.kafka.serializer.AvroSerializer"/>
+<fullyQualifiedTypeName name="com.order.avro.domain.Order"/>
+<fullyQualifiedTypeName name="org.slf4j.Logger"/>
+<fullyQualifiedTypeName name="org.slf4j.LoggerFactory"/>
+<fullyQualifiedTypeName name="org.apache.kafka.streams.KafkaStreams"/>
+<fullyQualifiedTypeName name="org.apache.kafka.streams.state.StoreBuilder"/>
+<fullyQualifiedTypeName name="org.apache.kafka.streams.state.KeyValueStore"/>
+<fullyQualifiedTypeName name="org.apache.kafka.streams.state.Stores"/>
+<fullyQualifiedTypeName name="org.springframework.kafka.core.ProducerFactory"/>
+<fullyQualifiedTypeName name="org.springframework.kafka.core.DefaultKafkaProducerFactory"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="com.product.kafka.service.ProductKafkaDispatcher"/>
+<fullyQualifiedTypeName name="com.product.kafka.config.KafkaProducerConfig"/>
+<fullyQualifiedTypeName name="org.apache.kafka.common.serialization.ByteArraySerializer"/>
+<fullyQualifiedTypeName name="org.apache.kafka.common.serialization.StringSerializer"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+</qualifiedTypeNameHistroy>

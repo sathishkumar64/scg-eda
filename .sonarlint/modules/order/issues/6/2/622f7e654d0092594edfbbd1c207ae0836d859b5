@@ -1,0 +1,7 @@
+
+xsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(€Ë˝ÕH∞RMAJORZ
+CODE_SMELL
+Üsquid:S22931"YReplace the type specification in this constructor call with the diamond operator ("<>").(æÑç∏H±RMINORZ
+CODE_SMELL
+åsquid:S1488&"`Immediately return this expression instead of assigning it to the temporary variable "producer".(Æ“£GH≤RMINORZ
+CODE_SMELL

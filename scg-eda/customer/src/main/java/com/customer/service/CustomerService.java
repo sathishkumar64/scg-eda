@@ -1,0 +1,18 @@
+package com.customer.service;
+
+import java.util.List;
+
+import com.customer.domain.Customer;
+
+
+
+public interface CustomerService {
+
+	Customer findById(int id);	
+	
+	Customer saveCustomer(Customer customer);
+
+	List<Customer> findAllCustomer();
+	
+	String feedToTopic();
+}

@@ -1,0 +1,5 @@
+package com.order.kafka.serializer;
+
+public class JsonSerializer {
+
+}

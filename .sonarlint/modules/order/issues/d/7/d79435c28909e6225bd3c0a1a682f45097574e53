@@ -1,0 +1,9 @@
+
+„squid:CommentedOutCodeLine("<This block of commented-out lines of code should be removed.(Β ζϋϊÿÿÿÿ8ΐΩµ…Δ,H¬RMAJORZ
+CODE_SMELL
+squid:S22930"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ύ„Έ8ªφ„Δ,H­RMINORZ
+CODE_SMELL
+„squid:CommentedOutCodeLineL"<This block of commented-out lines of code should be removed.(ύ®ƒύÿÿÿÿ8ΐΩµ…Δ,H®RMAJORZ
+CODE_SMELL
+…squid:CallToDeprecatedMethod)"@Remove this use of "VALUE_SERDE_CLASS_CONFIG"; it is deprecated.(›ϊχ8Ϋδα†Δ,H―RMINORZ
+CODE_SMELL
